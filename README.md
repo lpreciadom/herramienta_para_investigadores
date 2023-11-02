@@ -1,9 +1,9 @@
 # Proyecto Redes de Computadores - Herramienta para Investigaciones Académicas
-Luis David Preciado Martínez
-Ingeniería Mecatrónica
-Universidad Nacional de Colombia
-Bogotá, Colombia
-lpreciadom@unal.edu.co
+Luis David Preciado Martínez <br>
+Ingeniería Mecatrónica <br>
+Universidad Nacional de Colombia <br>
+Bogotá, Colombia <br>
+lpreciadom@unal.edu.co <br>
 
 ## Resumen
 Este informe presentará el desarrollo de una herramienta para la evaluación y selección de fuentes bibliográficas para los investigadores académicos. Ya que actualmente estos se ven enfrentados ante una gran variedad de opciones de publicaciones científicas de diversas calidades. Por lo cual la herramienta permitirá averiguar la calidad de las revistas indexadas tanto colombianas como internacionales y además implementar el análisis de textos de ChatGPT para hacer preguntas sobre las fuentes seleccionadas.
@@ -113,8 +113,8 @@ Está adunto el programa en Python en el repositorio.
 En conclusión, se logró el objetivo de desarrollar una herramienta para investigadores que permita evaluar la calidad de la fuente que se quiere utilizar o publicar. Además de brindar la posibilidad de cargar el documento que se está estudiando y hacer preguntas basadas en su contenido. Como aspectos para mejorar en versiones futuras, se podrían implementar más métricas de calificación de las revistas, como cantidad de publicaciones anuales o tiempos de revisión. Esto se intentó implementar en esta primera versión del programa, pero no se encontraron bases de datos que tuvieran esta información para los 3 grupos de revistas (nacionales, internacionales y depredadoras). Por lo cual, en vez de dar una implementación a medias, se dejó como un reto para versiones posteriores. 
 
 ## Referenncias
-[1] C. Boukacem-Zeghmouri, “Predatory journals entrap unsuspecting scientists. here’s how universities can support researchers,” Nature, vol. 620, no. 7974, pp. 469–469, 2023. doi:10.1038/d41586-023-02553-1
-[2] Md. M. Rahman and Y. Watanobe, “Chatgpt for Education and research: Opportunities, threats, and strategies,” Applied Sciences, vol. 13, no. 9, p. 5783, 2023. doi:10.3390/app13095783 
-[3] E. L. Hill-Yardin, M. R. Hutchinson, R. Laycock, and S. J. Spencer, “A chat(gpt) about the future of Scientific Publishing,” Brain, Behavior, and Immunity, vol. 110, pp. 152–154, May 2023. doi:10.1016/j.bbi.2023.02.022
-[4] J. Xia et al., “Who publishes in ‘predatory’ journals?,” Journal of the Association for Information Science and Technology, vol. 66, no. 7, pp. 1406–1417, 2014. doi:10.1002/asi.23265
-[5] G. Richtig, M. Berger, B. Lange-Asschenfeldt, W. Aberer, and E. Richtig, “Problems and challenges of predatory journals,” Journal of the European Academy of Dermatology and Venereology, vol. 32, no. 9, pp. 1441–1449, 2018. doi:10.1111/jdv.15039
+[1] C. Boukacem-Zeghmouri, “Predatory journals entrap unsuspecting scientists. here’s how universities can support researchers,” Nature, vol. 620, no. 7974, pp. 469–469, 2023. doi:10.1038/d41586-023-02553-1 <br>
+[2] Md. M. Rahman and Y. Watanobe, “Chatgpt for Education and research: Opportunities, threats, and strategies,” Applied Sciences, vol. 13, no. 9, p. 5783, 2023. doi:10.3390/app13095783  <br>
+[3] E. L. Hill-Yardin, M. R. Hutchinson, R. Laycock, and S. J. Spencer, “A chat(gpt) about the future of Scientific Publishing,” Brain, Behavior, and Immunity, vol. 110, pp. 152–154, May 2023. doi:10.1016/j.bbi.2023.02.022 <br>
+[4] J. Xia et al., “Who publishes in ‘predatory’ journals?,” Journal of the Association for Information Science and Technology, vol. 66, no. 7, pp. 1406–1417, 2014. doi:10.1002/asi.23265 <br>
+[5] G. Richtig, M. Berger, B. Lange-Asschenfeldt, W. Aberer, and E. Richtig, “Problems and challenges of predatory journals,” Journal of the European Academy of Dermatology and Venereology, vol. 32, no. 9, pp. 1441–1449, 2018. doi:10.1111/jdv.15039 <br>
